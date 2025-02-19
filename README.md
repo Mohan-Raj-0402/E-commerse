@@ -33,6 +33,3 @@ Dataset Used: order_dataset.csv
 *	Sales Tax: The tax amount applied to the transaction.
 *	Returned: A binary variable indicating whether the item was returned (1) or not (0).
 
-**Streamlit App:**
-
-![](https://github.com/Mohan-Raj-0402/E-commerse/blob/main/predict_page.py)
