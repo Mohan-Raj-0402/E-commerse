@@ -33,3 +33,4 @@ Dataset Used: order_dataset.csv
 *	Sales Tax: The tax amount applied to the transaction.
 *	Returned: A binary variable indicating whether the item was returned (1) or not (0).
 
+![Screenshot 2024-04-25 153820](https://github.com/user-attachments/assets/71ae7430-bb41-497e-9533-eff5b74c974c)
